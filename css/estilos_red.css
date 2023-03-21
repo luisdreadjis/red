@@ -1,0 +1,73 @@
+/*header . logo más arriba*/
+
+@media (min-width: 768px) {
+  div.navbar-header a.navbar-brand{
+      position:relative;
+      top:-7px;
+
+  }
+} 
+
+@media (max-width: 768px) {
+ #feature {
+   background: #F2F2F2;
+
+}
+} 
+
+
+section#intro div.block img{
+       padding-top: 15px; 
+}    
+
+h1{
+	margin-bottom: 0;
+}    
+
+/*Section InfoAmplia*/
+section#InfoAmplia article p{
+	line-height: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+section#InfoAmplia article h2{
+  font-size: 1.5em;
+  line-height: 1.3em;
+}
+
+section#InfoAmplia article img.Apoyo{
+	width:100%;
+  margin-top: 2em;
+}
+
+section#InfoAmplia article img.Apoyo{
+  width:100%;
+  margin-top: 2em;
+
+
+}
+
+section#InfoAmplia article#contacto iframe{
+   margin-top: 2em;
+   margin-bottom: 2em;
+   border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+
+}
+section#InfoAmplia article#contacto ul.address-block{
+  margin-top: 3em;
+}
+
+.cabecera{
+  margin-top:1em;
+  text-align: center;
+}
+
+.cabecera img{
+  width:100%;
+  border-radius: 20px 50px;
+}
+
+
+
