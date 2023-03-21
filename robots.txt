@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /old-contenido/
+Disallow: /admin/
+Disallow:  /info-demo.txt
+Sitemap: luisdreadjis.com/red/sitemap.xml 
